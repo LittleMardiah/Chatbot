@@ -370,4 +370,4 @@ with container:
     st.markdown("</div>", unsafe_allow_html=True)
 
 # ====== Footer ======
-st.markdown('<div class="footer-text">Dibuat dengan ❤️ menggunakan Streamlit | Jaga kesehatan gigi Anda! 🦷</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer-text">Terima kasih sudah berkunjung!  | Jaga kesehatan gigi Anda! 🦷</div>', unsafe_allow_html=True)
